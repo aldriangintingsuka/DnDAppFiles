@@ -2093,7 +2093,7 @@
 		<wis>16</wis>
 		<cha>16</cha>
 		<immune>necrotic, poison</immune>
-		<conditionImmune>charmed, frightened, paralyzed, petrified, poisoned , unconscious</conditionImmune>
+		<conditionImmune>charmed, frightened, paralyzed, petrified, poisoned, unconscious</conditionImmune>
 		<senses>darkvision 60 ft., truesight 60 ft.</senses>
 		<passive>13</passive>
 		<languages>all languages known to its summoner</languages>
@@ -5153,7 +5153,7 @@
 		<wis>12</wis>
 		<cha>14</cha>
 		<skill>Deception +6, Insight +3</skill>
-		<immune>charmed</immune>
+		<conditionImmune>charmed</conditionImmune>
 		<senses>darkvision 60 ft.</senses>
 		<passive>11</passive>
 		<languages>Common</languages>
@@ -8951,7 +8951,7 @@
 		<wis>12</wis>
 		<cha>7</cha>
 		<skill>Perception +4</skill>
-		<immune>petrified</immune>
+		<conditionImmune>petrified</conditionImmune>
 		<senses>darkvision 60 ft.</senses>
 		<passive>14</passive>
 		<cr>5</cr>
@@ -9538,7 +9538,7 @@
 		<wis>8</wis>
 		<cha>6</cha>
 		<skill>Athletics +5, Perception +3, Stealth +3</skill>
-		<immune>blinded</immune>
+		<conditionImmune>blinded</conditionImmune>
 		<senses>blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius)</senses>
 		<passive>13</passive>
 		<languages>Undercommon</languages>
@@ -10018,7 +10018,7 @@
 		<alignment>unaligned</alignment>
 		<ac>11</ac>
 		<hp>19 (3d10+3)</hp>
-		<speed>40 ft, fly 60 ft.</speed>
+		<speed>40 ft., fly 60 ft.</speed>
 		<str>17</str>
 		<dex>13</dex>
 		<con>13</con>
@@ -12570,8 +12570,9 @@
 		<cha>12</cha>
 		<save>Wis +2</save>
 		<vulnerable>fire</vulnerable>
-		<immune>bludgeoning, piercing, and slashing from nonmagical weapons</immune>
-		<conditionImmune>necrotic, poisoned</conditionImmune>
+		<resist>bludgeoning, piercing, and slashing from nonmagical weapons</resist>
+		<immune>necrotic, poison</immune>
+		<conditionImmune>charmed, exhaustion, frightened, paralyzed, poisoned</conditionImmune>
 		<senses>darkvision 60 ft.</senses>
 		<passive>10</passive>
 		<languages>the languages it knew in life</languages>
