@@ -2545,6 +2545,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>1/day each: entangle, phantasmal force</text>
 			<text>2/day each: disguise self, invisibility (self only)</text>
 		</trait>
@@ -3616,6 +3617,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The cambion's spellcasting ability is Charisma (spell save DC 14). The cambion can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>3/day each: alter self, command, detect magic</text>
 			<text>1/day: plane shift (self only)</text>
 		</trait>
@@ -4542,6 +4544,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The dao's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: detect evil and good, detect magic, stone shape</text>
 			<text>3/day each: passwall, move earth, tongues</text>
 			<text>1/day each: conjure elemental (earth elemental only), gaseous form, invisibility, phantasmal killer, plane shift, wall of stone</text>
@@ -4864,6 +4867,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: nondetection (self only)</text>
 			<text>1/day each: blindness/deafness, blur, disguise self</text>
 		</trait>
@@ -4988,6 +4992,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components: </text>
+			<text />
 			<text>At will: detect evil and good</text>
 			<text>1/day each: commune, raise dead</text>
 		</trait>
@@ -5322,6 +5327,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: dancing lights</text>
 			<text>1/day each: darkness, faerie fire</text>
 		</trait>
@@ -5385,6 +5391,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: dancing lights</text>
 			<text>1/day each: darkness, faerie fire</text>
 		</trait>
@@ -5459,6 +5466,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: dancing lights</text>
 			<text>1/day each: darkness, faerie fire</text>
 		</trait>
@@ -5505,6 +5513,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: dancing lights</text>
 			<text>1/day each: darkness, faerie fire, levitate (self only)</text>
 		</trait>
@@ -5558,6 +5567,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: dancing lights</text>
 			<text>1/day each: darkness, faerie fire, levitate (self only)</text>
 		</trait>
@@ -5616,6 +5626,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The drow's spellcasting ability is Charisma (spell save DC 15. She can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: dancing lights</text>
 			<text>1/day each: darkness, faerie fire, levitate (self only)</text>
 		</trait>
@@ -6084,6 +6095,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The empyrean's innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: greater restoration, pass without trace, water breathing, water walk</text>
 			<text>1/day each: commune, dispel evil and good, earthquake, fire storm, plane shift (self only)</text>
 		</trait>
@@ -8593,6 +8605,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: darkness, detect magic, dispel magic</text>
 			<text>1/day each: confusion, fly, power word stun</text>
 		</trait>
@@ -11307,7 +11320,11 @@
 		<cr>4</cr>
 		<trait>
 			<name>Innate Spellcasting</name>
-			<text>The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components. At will: disguise self (any humanoid form), major image 3/day each: charm person, mirror image, scrying, suggestion 1/day: geas</text>
+			<text>The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components: </text>
+			<text />
+			<text>At will: disguise self (any humanoid form), major image</text>
+			<text>3/day each: charm person, mirror image, scrying, suggestion</text>
+			<text>1/day: geas</text>
 		</trait>
 		<action>
 			<name>Multiattack</name>
@@ -13851,6 +13868,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: detect magic, fireball</text>
 			<text>3/day each: hold monster, wall of fire</text>
 		</trait>
@@ -13948,6 +13966,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: detect evil and good, invisibility (self only)</text>
 			<text>3/day each: blade barrier, dispel evil and good, flame strike, raise dead</text>
 			<text>1/day each: commune, control weather, insect plague</text>
@@ -15855,6 +15874,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The solar's spell casting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: detect evil and good, invisibility (self only)</text>
 			<text>3/day each: blade barrier, dispel evil and good, resurrection</text>
 			<text>1/day each: commune, control weather</text>
@@ -18943,6 +18963,7 @@
 		<trait>
 			<name>Innate Spellcasting</name>
 			<text>The yochlol's spellcasting ability is Charisma (spell save DC 14). The yochlol can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: detect thoughts, web</text>
 			<text>1/day: dominate person</text>
 		</trait>
@@ -19525,6 +19546,7 @@
 		<trait>
 			<name>Innate Spellcasting (Abomination Form Only)</name>
 			<text>The yuan_ti's innate spellcasting ability is Charisma (spell save DC 15). The yuan_ti can innately cast the following spells, requiring no material components: </text>
+			<text />
 			<text>At will: animal friendship (snakes only)</text>
 			<text>3/day: suggestion</text>
 			<text>1/day: fear</text>
