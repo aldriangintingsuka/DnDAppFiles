@@ -82,7 +82,7 @@
 		</action>
 		<action>
 			<name>Tail</name>
-			<text>Melee Weapon Attack: +9 to hit, reach 10 ft. one target. Hit: 15 (3d6 + 5) bludgeoning damage.</text>
+			<text>Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) bludgeoning damage.</text>
 			<attack>Tail|9|3d6+5</attack>
 		</action>
 		<action>
@@ -427,7 +427,7 @@
 		</action>
 		<action>
 			<name>Bite</name>
-			<text>Melee Weapon Attack: +11 to hit, reach,.0 ft., one target. Hit: 17 (2d10 + 6) piercing damage.</text>
+			<text>Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage.</text>
 			<attack>Bite|11|2d10+6</attack>
 		</action>
 		<action>
@@ -1064,7 +1064,7 @@
 		</action>
 		<action>
 			<name>Tail</name>
-			<text>Melee Weapon Attack: +15 to hit, reach 20 ft ., one target. Hit: 17 (2d8 + 8) bludgeoning damage.</text>
+			<text>Melee Weapon Attack: +15 to hit, reach 20 ft., one target. Hit: 17 (2d8 + 8) bludgeoning damage.</text>
 			<attack>Tail|15|2d8+8</attack>
 		</action>
 		<action>
@@ -2505,7 +2505,7 @@
 		</action>
 		<action>
 			<name>Claw</name>
-			<text>Melee Weapon Attack: +6 to hit, reach 5 ft ., one target. Hit: 6 (1d6 + 3) piercing damage.</text>
+			<text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.</text>
 			<attack>Claw|6|1d6+3</attack>
 		</action>
 		<action>
@@ -7206,7 +7206,7 @@
 		</trait>
 		<action>
 			<name>Slam</name>
-			<text>Melee Weapon Attack: +8 to hit, reach 5 ft ., one target. Hit: 12 (2d6 + 5) bludgeoning damage.</text>
+			<text>Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage.</text>
 			<attack>Slam|8|2d6+5</attack>
 		</action>
 		<action>
@@ -8668,7 +8668,7 @@
 		</action>
 		<action>
 			<name>Spear</name>
-			<text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. and range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.</text>
+			<text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.</text>
 			<attack>One Handed|7|2d6+4</attack>
 			<attack>Two Handed|7|2d8+4</attack>
 		</action>
@@ -10457,7 +10457,7 @@
 		</action>
 		<action>
 			<name>Tail</name>
-			<text>Melee Weapon Attack:+10 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.</text>
+			<text>Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.</text>
 			<attack>Tail|10|2d6+5+3d6</attack>
 		</action>
 		<action>
@@ -10618,7 +10618,7 @@
 		</trait>
 		<action>
 			<name>Sting (Bite in Beast Form)</name>
-			<text>Melee Weapon Attack: +5 to hit, reach 5 ft ., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.</text>
+			<text>Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.</text>
 			<attack>Sting/Bite|5|1d4+3</attack>
 		</action>
 		<action>
@@ -11747,7 +11747,7 @@
 		</trait>
 		<action>
 			<name>Claws</name>
-			<text>Melee Weapon Attack: +3 to hit, reach 5 ft ., one creature. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.</text>
+			<text>Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.</text>
 			<attack>Claws|3|1d4+1+1d4</attack>
 		</action>
 		<action>
@@ -13883,17 +13883,17 @@
 		</action>
 		<action>
 			<name>Claw</name>
-			<text>Melee Weapon Attack: +14 to hit, reach 10 ft. , one target. Hit: 17 (2d8 + 8) slashing damage.</text>
+			<text>Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing damage.</text>
 			<attack>Claw|14|2d8+8</attack>
 		</action>
 		<action>
 			<name>Mace</name>
-			<text>Melee Weapon Attack: +14 to hit, reach 10ft., one target. Hit: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.</text>
+			<text>Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.</text>
 			<attack>Mace|14|2d6+8+6d6</attack>
 		</action>
 		<action>
 			<name>Tail</name>
-			<text>Melee Weapon Attack: +14 to hit, reach 10ft., one target. Hit: 24 (3d10 + 8) bludgeoning damage.</text>
+			<text>Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 24 (3d10 + 8) bludgeoning damage.</text>
 			<attack>Tail|14|3d10+8</attack>
 		</action>
 		<spells>detect magic, fireball, hold monster, wall of fire</spells>
@@ -14111,7 +14111,7 @@
 		</trait>
 		<action>
 			<name>Forceful Slam</name>
-			<text>Melee Weapon Attack: +4 to hit, reach 5 ft. one creature. Hit: 10 (3d6) force damage.</text>
+			<text>Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 10 (3d6) force damage.</text>
 			<attack>Slam|4|3d6</attack>
 		</action>
 		<action>
@@ -14481,7 +14481,7 @@
 		</trait>
 		<action>
 			<name>Claw (Bite in Beast Form)</name>
-			<text>Melee Weapon Attack: +4 to hit, reach 5 ft ., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
+			<text>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.</text>
 			<attack>Claw/Bite|4|1d4+3</attack>
 		</action>
 		<action>
@@ -15267,7 +15267,7 @@
 		</action>
 		<action>
 			<name>Spear</name>
-			<text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.</text>
+			<text>Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.</text>
 			<attack>Spear|7|2d6+4+1d6</attack>
 		</action>
 		<action>
@@ -15414,7 +15414,7 @@
 		</action>
 		<action>
 			<name>Longbow</name>
-			<text>Ranged Weapon Attack: +4 to hit, ranged 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</text>
+			<text>Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.</text>
 			<attack>|4|1d8+2</attack>
 		</action>
 	</monster>
@@ -17556,12 +17556,12 @@
 		</action>
 		<action>
 			<name>Hooves</name>
-			<text>Melee Weapon Attack: +7 to hit, reach 5 ft ., one target. Hit: 11 (2d6 + 4) bludgeoning damage.</text>
+			<text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.</text>
 			<attack>Hooves|7|2d6+4</attack>
 		</action>
 		<action>
 			<name>Horn</name>
-			<text>Melee Weapon Attack: +7 to hit, reach 5 ft ., one target. Hit: 8 (1d8 + 4) piercing damage.</text>
+			<text>Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.</text>
 			<attack>Horn|7|1d8+4</attack>
 		</action>
 		<action>
@@ -18977,7 +18977,7 @@
 		</action>
 		<action>
 			<name>Slam (Bite in Spider Form)</name>
-			<text>Melee Weapon Attack: +6 to hit, reach 5 ft. (10 ft. in demon form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage.</text>
+			<text>Melee Weapon Attack: +6 to hit, reach 10 ft. (5 ft. in spider form), one target. Hit: 5 (1d6 + 2) bludgeoning (piercing in spider form) damage plus 21 (6d6) poison damage.</text>
 			<attack>Slam/Bite|6|1d6+2+6d6</attack>
 		</action>
 		<action>
