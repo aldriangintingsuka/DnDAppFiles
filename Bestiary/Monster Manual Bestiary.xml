@@ -9594,7 +9594,7 @@
 		<cr>1/8</cr>
 		<action>
 			<name>Spear</name>
-			<text>Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.</text>
+			<text>Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.</text>
 			<attack>One Handed|3|1d6+1</attack>
 			<attack>Two Handed|3|1d8+1</attack>
 		</action>
@@ -11377,7 +11377,7 @@
 		</trait>
     <action>
       <name>Fist</name>
-      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage</text>
+      <text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.</text>
       <attack>Fist|3|1d4</attack>
     </action>
 	</monster>
@@ -14252,7 +14252,7 @@
 		</trait>
 		<action>
 			<name>Bite</name>
-			<text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) piercing damage</text>
+			<text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) piercing damage.</text>
 			<attack>Bite|3|2d4+1</attack>
 		</action>
 	</monster>
@@ -17194,7 +17194,7 @@
 		</action>
 		<action>
 			<name>Stomp</name>
-			<text>Melee Weapon Attack: +9 to hit, reach 5 ft., one prone creature. Hit: 22 (3d10 + 6) bludgeoning damage</text>
+			<text>Melee Weapon Attack: +9 to hit, reach 5 ft., one prone creature. Hit: 22 (3d10 + 6) bludgeoning damage.</text>
 			<attack>Stomp|9|3d10+6</attack>
 		</action>
 	</monster>
