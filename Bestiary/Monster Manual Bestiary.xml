@@ -14650,7 +14650,7 @@
 		</action>
 		<action>
 			<name>Fire Breath (Recharge 5-6)</name>
-			<text>The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC l3 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.</text>
+			<text>The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.</text>
 			<attack>Fire Breath||7d6</attack>
 		</action>
 	</monster>
@@ -15832,7 +15832,7 @@
 		</action>
 		<action>
 			<name>Cinder Breath (Recharge 6)</name>
-			<text>The mephit exhales a 15-foot cone of smoldering ash. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded until the end of the mephit's next turn .</text>
+			<text>The mephit exhales a 15-foot cone of smoldering ash. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded until the end of the mephit's next turn.</text>
 		</action>
 		<action>
 			<name>Variant: Summon Mephits (1/Day)</name>
@@ -18046,7 +18046,7 @@
 		</action>
 		<action>
 			<name>Stunning Screech (1/Day)</name>
-			<text>The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock's next turn .</text>
+			<text>The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock's next turn.</text>
 		</action>
 		<action>
 			<name>Variant: Summon Demon (1/Day)</name>
