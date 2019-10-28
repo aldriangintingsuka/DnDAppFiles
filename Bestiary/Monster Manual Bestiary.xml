@@ -6879,7 +6879,7 @@
 		<cr>4</cr>
 		<trait>
 			<name>Illumination</name>
-			<text>The flameskull sheds either dim light in a 15- foot radius, or bright light in a 15-foot radius and dim light for an additional 15 ft.. It can switch between the options as an action.</text>
+			<text>The flameskull sheds either dim light in a 15-foot radius, or bright light in a 15-foot radius and dim light for an additional 15 ft.. It can switch between the options as an action.</text>
 		</trait>
 		<trait>
 			<name>Magic Resistance</name>
