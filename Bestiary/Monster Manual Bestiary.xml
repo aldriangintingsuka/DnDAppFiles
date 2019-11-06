@@ -13410,7 +13410,7 @@
 		</trait>
 		<action>
 			<name>Spear</name>
-			<text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (1d6 + 3 plus 1d8) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack.</text>
+			<text>Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (1d6 + 3 + 1d8) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack.</text>
 			<attack>One Handed|5|1d6+3+1d8</attack>
 			<attack>Two Handed|5|2d8+3</attack>
 		</action>
@@ -13451,12 +13451,12 @@
 		</action>
 		<action>
 			<name>Greataxe</name>
-			<text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (1d12 + 4 plus 1d8) slashing damage.</text>
+			<text>Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (1d12 + 4 + 1d8) slashing damage.</text>
 			<attack>Greataxe|6|1d12+4+1d8</attack>
 		</action>
 		<action>
 			<name>Spear</name>
-			<text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 12 (1d6 + 4 plus 1d8) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.</text>
+			<text>Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 12 (1d6 + 4 + 1d8) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.</text>
 			<attack>One Handed|6|1d6+4+1d8</attack>
 			<attack>Two Handed|6|2d8+4</attack>
 		</action>
