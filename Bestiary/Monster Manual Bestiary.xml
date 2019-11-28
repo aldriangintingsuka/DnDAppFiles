@@ -5862,7 +5862,7 @@
 		<cr>1/2</cr>
 		<trait>
 			<name>Death Burst</name>
-			<text>When the mephit dies, it explodes in a burst of dust. Each creature within 5 ft. of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.</text>
+			<text>When the mephit dies, it explodes in a burst of dust. Each creature within 5 ft. of it must succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.</text>
 		</trait>
 		<trait>
 			<name>Innate Spellcasting (1/Day)</name>
@@ -10614,7 +10614,7 @@
 		</trait>
 		<trait>
 			<name>Variant: Familiar</name>
-			<text>The imp can serve another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the quasit senses as long as they are within 1 mile of each other. While the imp is within 10 feet of its master, the master shares the quasit's Magic Resistance trait. At any time and for any reason, the imp can end its service as a familiar, ending the telepathic bond.</text>
+			<text>The imp can serve another creature as a familiar, forming a telepathic bond with its willing master. While the two are bonded, the master can sense what the imp senses as long as they are within 1 mile of each other. While the imp is within 10 feet of its master, the master shares the imp's Magic Resistance trait. At any time and for any reason, the imp can end its service as a familiar, ending the telepathic bond.</text>
 		</trait>
 		<action>
 			<name>Sting (Bite in Beast Form)</name>
@@ -11091,7 +11091,7 @@
 			<text>The kuo-toa can breathe air and water.</text>
 		</trait>
 		<trait>
-			<name>Otherwordly Perception</name>
+			<name>Otherworldly Perception</name>
 			<text>The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving.</text>
 		</trait>
 		<trait>
