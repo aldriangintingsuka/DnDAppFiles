@@ -8064,7 +8064,7 @@
 		</action>
 	</monster>
 	<monster>
-		<name>Giant Rat (Diseased)</name>
+		<name>Diseased Giant Rat</name>
 		<size>S</size>
 		<type>beast, monster manual</type>
 		<alignment>unaligned</alignment>
@@ -9825,8 +9825,8 @@
 		<action>
 			<name>Luring Song</name>
 			<text>The harpy sings a magical melody. Every humanoid and giant within 300 ft. of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.</text>
-			<text>     While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 ft. away from the harpy, the must move on its turn toward the harpy by the most direct route. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, a target can repeat the saving throw. A creature can also repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it.</text>
-			<text>     A target that successfully saves is immune to this harpy's song for the next 24 hours.</text>
+			<text>While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 ft. away from the harpy, the target must move on its turn toward the harpy by the most direct route. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, a target can repeat the saving throw. A creature can also repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it.</text>
+			<text>A target that successfully saves is immune to this harpy's song for the next 24 hours.</text>
 		</action>
 	</monster>
 	<monster>
@@ -11147,7 +11147,7 @@
 			<text>The kuo-toa can breathe air and water.</text>
 		</trait>
 		<trait>
-			<name>Otherwordly Perception</name>
+			<name>Otherworldly Perception</name>
 			<text>The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving.</text>
 		</trait>
 		<trait>
@@ -11210,7 +11210,7 @@
 			<text>The kuo-toa can breathe air and water.</text>
 		</trait>
 		<trait>
-			<name>Otherwordly Perception</name>
+			<name>Otherworldly Perception</name>
 			<text>The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving.</text>
 		</trait>
 		<trait>
@@ -11264,7 +11264,7 @@
 			<text>The kuo-toa can breathe air and water.</text>
 		</trait>
 		<trait>
-			<name>Otherwordly Perception</name>
+			<name>Otherworldly Perception</name>
 			<text>The kuo-toa can sense the presence of any creature within 30 feet of it that is invisible or on the Ethereal Plane. It can pinpoint such a creature that is moving.</text>
 		</trait>
 		<trait>
@@ -16955,7 +16955,7 @@
 		</action>
 	</monster>
 	<monster>
-		<name>Thri-kreen (Psionic)</name>
+		<name>Thri-kreen (psionics)</name>
 		<size>M</size>
 		<type>humanoid (thri-kreen), monster manual</type>
 		<alignment>chaotic neutral</alignment>
@@ -17960,7 +17960,7 @@
 		</trait>
 		<action>
 			<name>Constrict</name>
-			<text>Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage, and a Large or smaller target is grappled (escape DC 12) . Until this grapple ends, the target is restrained, and the blight can't constrict another target.</text>
+			<text>Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage, and a Large or smaller target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the blight can't constrict another target.</text>
 			<attack>Constrict|4|2d6+2</attack>
 		</action>
 		<action>
